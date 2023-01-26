@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(247, 248, 177);
+}
+html, body, main, div, p, span {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    font-weight: 700;
+}
+body {
+    background-color: aqua;
+}
+main {
+    background-color: aquamarine;
+}
+div {
+    background-color: rgb(121, 121, 243);
+}
+p {
+    background-color: chartreuse;
+}
+span {
+    display: block;
+    background-color: coral;
+}
